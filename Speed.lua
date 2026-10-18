@@ -41,7 +41,7 @@ local ScriptURLs = {
     ["Main"]   = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", 
     ["Kaitun"] = "https://raw.githubusercontent.com/yourname/yourrepo/main/kaitun.lua",
     ["Aimbot"] = "https://raw.githubusercontent.com/pichunii/nhismwwo/refs/heads/main/sourceaimbot.lua",
-    ["Fixlag"] = "https://raw.githubusercontent.com/pichunii/NovaXClient/refs/heads/main/Fixlag.luau"
+    ["Fixlag"] = "https://raw.githubusercontent.com/pichunii/nhismwwo/refs/heads/main/sourcefixlag.lua"
 }
 
 local WebhookURL = "https://discord.com/api/webhooks/1561300293612863539/SSgdQIlIPMMpzyQ2Y0oedU4iaVMb-WHaDQuSTvwk97TC00RBDc6gho6K_iEPHrJPwhH5"
