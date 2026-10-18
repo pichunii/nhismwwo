@@ -40,7 +40,7 @@ local PremiumKeys = {["NHISM-PREMIUM-999"] = true, ["PREMIUM_KEY_VIP"] = true}
 local ScriptURLs = {
     ["Main"]   = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", 
     ["Kaitun"] = "https://raw.githubusercontent.com/yourname/yourrepo/main/kaitun.lua",
-    ["Aimbot"] = "https://raw.githubusercontent.com/pichunii/NovaXClient/refs/heads/main/Aimbot.lua",
+    ["Aimbot"] = "https://raw.githubusercontent.com/pichunii/nhismwwo/refs/heads/main/Aimbot.lua",
     ["Fixlag"] = "https://raw.githubusercontent.com/pichunii/NovaXClient/refs/heads/main/Fixlag.luau"
 }
 
