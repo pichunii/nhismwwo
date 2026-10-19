@@ -24,7 +24,7 @@ local Player = Services.Players.LocalPlayer
 -- Bộ đếm chống Spam Executor
 if not getgenv().FarialLoadCount then getgenv().FarialLoadCount = 0 end
 getgenv().FarialLoadCount = getgenv().FarialLoadCount + 1
-if getgenv().FarialLoadCount >= 10 then
+if getgenv().FarialLoadCount >= 3 then
     Player:Kick("[Farial Hub] Security: Phát hiện Spam Executor. Vui lòng khởi động lại game.")
     return
 end
