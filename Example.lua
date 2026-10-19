@@ -1,7 +1,7 @@
 --!unstack
 --!stacking
 -- Just a note: some elements/features in this script are only for performance testing and real-time testing, tabs like Empty and Premium are just documentation for Emptystate and dynamic adding, you can freely modify these and delete anything you want. 
-local Fluent = loadstring(game:HttpGet("https://github.com/StyearX/Fluent-Modded/releases/download/1.6.0/main.lua"))()
+local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/pichunii/nhismwwo/refs/heads/main/main.lua"))()
 
 Workspace = game:GetService("Workspace")
 RunService = game:GetService("RunService")
